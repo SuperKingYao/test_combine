@@ -1,0 +1,7 @@
+目标文件:C:\Users\xhdq\Desktop\C\bin-merge\out1.bin   大小:0x0007DD74
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      C:\Users\xhdq\Desktop\C\bin-merge\xol_bootloader.bin                0x00006C38        0x00000000             否
+ 2      C:\Users\xhdq\Desktop\C\bin-merge\xol-2000.bin                      0x0001DD2C        0x00020000             否
+ 3      C:\Users\xhdq\Desktop\C\bin-merge\t1.1.1.bin                        0x0001DD74        0x00060000             否

@@ -1,0 +1,3 @@
+"D:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\binMerge.dir/objects.a
+D:\msys64\mingw64\bin\ar.exe qc CMakeFiles\binMerge.dir/objects.a @CMakeFiles\binMerge.dir\objects1
+D:\msys64\mingw64\bin\gcc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\binMerge.dir/objects.a -Wl,--no-whole-archive -o binMerge.exe -Wl,--out-implib,libbinMerge.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\binMerge.dir\linkLibs.rsp
